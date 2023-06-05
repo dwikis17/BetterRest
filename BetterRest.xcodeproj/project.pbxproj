@@ -11,6 +11,7 @@
 		6469A2322A29D73800429D83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6469A2312A29D73800429D83 /* ContentView.swift */; };
 		6469A2342A29D73900429D83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6469A2332A29D73900429D83 /* Assets.xcassets */; };
 		6469A2372A29D73900429D83 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6469A2362A29D73900429D83 /* Preview Assets.xcassets */; };
+		6469A2402A29E0A800429D83 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6469A23F2A29E0A800429D83 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6469A2312A29D73800429D83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6469A2332A29D73900429D83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6469A2362A29D73900429D83 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6469A23F2A29E0A800429D83 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				6469A22F2A29D73800429D83 /* BetterRestApp.swift */,
+				6469A23F2A29E0A800429D83 /* SleepCalculator.mlmodel */,
 				6469A2312A29D73800429D83 /* ContentView.swift */,
 				6469A2332A29D73900429D83 /* Assets.xcassets */,
 				6469A2352A29D73900429D83 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				6469A2322A29D73800429D83 /* ContentView.swift in Sources */,
 				6469A2302A29D73800429D83 /* BetterRestApp.swift in Sources */,
+				6469A2402A29E0A800429D83 /* SleepCalculator.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
